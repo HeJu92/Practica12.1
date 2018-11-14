@@ -1,0 +1,35 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: gray;
+}
+h1#titulo{
+    text-align: center;
+    font-style: oblique;
+}
+p.centrado{
+    text-align: center;
+}
+p#subtitulo{
+    text-align: center;
+    font-size: 23px;
+}
+div.prueba{
+    float: left;
+    margin: 32px;
+}
+p.prc{
+    text-align: center;
+    font-size: 22px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    padding-inline-end: 100px;
+}
