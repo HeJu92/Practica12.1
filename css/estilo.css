@@ -17,8 +17,19 @@ div.prueba{
     float: left;
     margin: 32px;
 }
+div.prueba2{
+    margin: 14px;
+    float: left;
+}
+div#div2{
+    background-color: whitesmoke;
+    overflow: hidden;
+}
 p.prc{
     text-align: center;
+    font-size: 22px;
+}
+p.htcd{
     font-size: 22px;
 }
 ul{
@@ -32,4 +43,7 @@ li{
     padding: 0px;
     display: inline-block;
     padding-inline-end: 100px;
+}
+li.negrita{
+    font-weight: bold;
 }
